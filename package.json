@@ -3,6 +3,10 @@
   "name": "zenn",
   "version": "1.0.0",
   "description": "",
+  "scripts": {
+    "new": "zenn new:article",
+    "preview": "zenn preview"
+  },
   "dependencies": {
     "zenn-cli": "^0.1.142"
   }
